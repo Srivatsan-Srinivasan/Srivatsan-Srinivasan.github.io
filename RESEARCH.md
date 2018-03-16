@@ -1,4 +1,11 @@
-### About&nbsp;&nbsp;&nbsp;     [Research](RESEARCH.md)&nbsp;&nbsp;&nbsp;     CV&nbsp;&nbsp;&nbsp;      Contact
+### About &nbsp;&nbsp;&nbsp;     [Research](RESEARCH.md) &nbsp;&nbsp;&nbsp;     CV&nbsp;&nbsp;&nbsp;      Contact
+## Welcome to GitHub Pages
+
+You can use test the [editor on GitHub](https://github.com/Srivatsan-Srinivasan/Srivatsan-Srinivasan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### [About](README.md)&nbsp;&nbsp;&nbsp;     [Research](RESEARCH.md)&nbsp;&nbsp;&nbsp;     CV&nbsp;&nbsp;&nbsp;      Contact
 
 ##### Academic Research Projects(Aug, 2017 - May 2019)
 1. Inverse Reinforcement/Imitation Learning for Sepsis Treatment
