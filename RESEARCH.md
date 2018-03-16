@@ -1,6 +1,6 @@
 ### About&nbsp;&nbsp;&nbsp;     [Research](RESEARCH.md)&nbsp;&nbsp;&nbsp;     CV&nbsp;&nbsp;&nbsp;      Contact
 
-##### Academic Research Projects
+##### Academic Research Projects(Aug, 2017 - May 2019)
 1. Inverse Reinforcement/Imitation Learning for Sepsis Treatment
 2. Variational and Adversarial Deep Generative Models for Natural Language
 3. Input Convex Neural Networks
@@ -10,5 +10,5 @@
 
 ##### Quantiative Execution Research(Goldman Sachs, Jun,2014 - Jun,2017)
 
-##### Tribe Dynamics - Harvard IACS Capstone Project
+##### Tribe Dynamics - Harvard IACS Capstone Project(Jan 2018 - May 2018)
 1. Deep Learning and Language Transfer based multi-lingual brand classifier
