@@ -2,6 +2,8 @@
 
 My preferred medium of communication is through email. Also, I am more responsive on my school email thant the personal one.
 
-#### E-MAIL
+#### SCHOOL E-MAIL
 <full-name>@g.harvard.edu where <full-name> is srivatsansrinivasan
-<name>@gmail.com where <name> is vatsan09
+
+#### PERSONAL E-MAIL
+<name> @gmail.com where <name> is vatsan09
