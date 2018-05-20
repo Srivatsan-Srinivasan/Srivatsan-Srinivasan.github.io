@@ -1,4 +1,4 @@
-### About &nbsp;&nbsp;&nbsp;     [Research](RESEARCH.md) &nbsp;&nbsp;&nbsp;     CV&nbsp;&nbsp;&nbsp;      Contact
+### About &nbsp;&nbsp;&nbsp;     [Research](RESEARCH.md) &nbsp;&nbsp;&nbsp;     CV&nbsp;&nbsp;&nbsp;      [Contact](CONTACT.md)
 
 ## Welcome to Github Pages
 You can use test the [editor on GitHub](https://github.com/Srivatsan-Srinivasan/Srivatsan-Srinivasan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
